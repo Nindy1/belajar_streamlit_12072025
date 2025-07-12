@@ -5,3 +5,5 @@ import streamlit as st
 
 st.title("Belajar Streamlit")
 
+if st.button("Say hello"):
+    st.write("Why hello there")
