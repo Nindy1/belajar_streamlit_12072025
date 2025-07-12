@@ -12,7 +12,7 @@ import streamlit as st
 st.link_button("Go to gallery", "https://streamlit.io/gallery")
 import streamlit as st
 st.image("sunrise.jpg", caption="Sunrise by the mountains")
-import streamlit as st
+
 import time
 
 with st.sidebar:
